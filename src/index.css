@@ -1,0 +1,15 @@
+.sticky-nav{
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 5;
+}
+.bg-gray-71{
+    background-color: rgb(217, 213, 213);
+}
+.m-left-30{
+    margin-left: 30px;
+}
+.m-right-50{
+    margin-right: 50px;
+}
