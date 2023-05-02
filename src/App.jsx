@@ -4,7 +4,7 @@ function App(){
   return (
     <>
       <Nav/>
-      <h1>POSUTILITIE REACT</h1>
+      <h1>PosUtilitie React</h1>
     </>
   )
 }
