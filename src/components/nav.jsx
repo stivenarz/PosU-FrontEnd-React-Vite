@@ -3,7 +3,7 @@ import "./nav.css";
 
 function Nav() {
   return (
-    <nav class="navbar navbar-expand-lg bg-body-tertiary sticky-nav bg-gray-71">
+    <nav class="navbar navbar-expand-lg bg-body-tertiary bg-gray-71">
       <div class="container-fluid">
         <a class="navbar-brand" href="#">
           PosUtilitie
